@@ -1,0 +1,4 @@
+---
+prometheus_version: "v2.47.0"
+prometheus_version_without_v: "2.47.0"
+
